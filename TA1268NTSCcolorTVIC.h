@@ -7,7 +7,7 @@ const byte subAddres[16] ={0x00,0x01,0x02,0x03,0x04,0x05,0x06,0x07,0x08,0x09,0x0
 
 uint8_t valu[16] ={0x32,0x41,0x28,0xcb,0x08,0x00,0x2f,0x20,0x3f,0x3f,0x7f,0x00,0x00,0x00,0x00,0x00,};
 
-const String functionName[17] = {"Color","Tint","Brightness","Uni-color","Sharpness","Vertical, Horizontal phase",
+const String functionName[16] = {"Color","Tint","Brightness","Uni-color","Sharpness","Vertical, Horizontal phase",
 "Audio Attenuator","Don'T USE","RF AGC","Vertical Amplitue","PIF VCO","R CUT Off","G CUT Off","B CUTT Off",
 "G Gain","B Gain",};
 
